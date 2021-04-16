@@ -22,7 +22,7 @@ Abra http://localhost:3000 para visualizá-lo no navegador.
 
 * [ ] Node.js
 * [ ] Express.js
-* [ ] Boostrap
+* [ ] Bootstrap
 * [ ] Chart.js
 
 ## Author
