@@ -21,7 +21,10 @@ router.post("/new", bodyParser.json(), (req, res) => {
     if (req.body.firstName.length <= 2) {
         res.status(400).send(error);
     }
-    if (req.body.participation < 0) {
+    if (req.body.lastName.length <= 2) {
+        res.status(400).send(error);
+    }
+    if (req.body.participation <= 0) {
         res.status(400).send(error);
     } else {
         let firstName = req.body.firstName
