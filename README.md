@@ -2,8 +2,8 @@
 
 ## Demonstration
 <div style="text-align:center;">
-<img src="./public/images/demonstration-2.png" width="150px"> 
-<img src="./public/images/demonstration-3.png" width="150px">
+<img src="./public/images/demonstration-2.png" width="250px"> 
+<img src="./public/images/demonstration-3.png" width="250px">
 </div>
 <img src="./public/images/demonstration-layot.png">
  
