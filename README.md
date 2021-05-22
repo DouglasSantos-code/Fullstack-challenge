@@ -20,6 +20,7 @@ Abra http://localhost:3000 para visualizá-lo no navegador.
 
 ## 💻 Techs
 
+* [ ] JavaScript
 * [ ] Node.js
 * [ ] Express.js
 * [ ] Bootstrap
